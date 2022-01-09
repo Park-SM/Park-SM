@@ -30,7 +30,7 @@
 <h3><p align="center">☕ Me ☕</p></h3>
 
 <p align="center">
-  <a href="http://smparkworld.com/blog" target="_blank"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp;
+  <a href="http://smparkworld.com" target="_blank"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp;
   <a href="mailto:park97.sm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
 </p>
 
