@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>&nbsp;
