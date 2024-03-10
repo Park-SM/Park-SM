@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/JenkinsCI-D24939?style=flat&logo=Jenkins&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/GooglePlay-414141?style=flat&logo=GooglePlay&logoColor=white"/>&nbsp;
@@ -24,7 +23,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring-007ACC?style=flat&logo=Spring&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>&nbsp;
